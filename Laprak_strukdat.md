@@ -1,6 +1,6 @@
 # <h1 align="center">Laporan Praktikum Modul 1 - Codeblocks IDE & Pengenalan Bahasa C++ (Bagian Pertama)</h1>
 
-<p align="center">Andhista Novian Firzatullah - 109082500092</p>
+<p align="center">Naufal Hanif Saputra - 109082500209</p>
 
 ## Dasar Teori
 
@@ -218,7 +218,7 @@ int main() {
 
 ### Output Unguided 2 :
 
-![Screenshot Output Unguided 2\_2](https://github.com/andistafirza-droid/Laprak-Strukdat/blob/main/Praktikum%20Struktur%20Data/28-09-2026/Screenshot/Output-Unguided-Two.png)
+![Screenshot Output Unguided 2\_2](https://github.com/hanifsaputra1530-hub/Laprak_strukdat/blob/main/2.jpeg)
 
 Pada program kedua, input yang diberikan berupa bilangan bulat dari 0 sampai 100. Program kemudian mengubah angka tersebut menjadi bentuk tulisan dalam bahasa Indonesia.
 
