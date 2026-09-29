@@ -125,7 +125,7 @@ int main() {
 
 ### Output Unguided 1 :
 
-![Screenshot Output Unguided 1\_2](https://github.com/andistafirza-droid/Laprak-Strukdat/blob/main/Praktikum%20Struktur%20Data/28-09-2026/Screenshot/Output-Unguided-One.png)
+![Screenshot Output Unguided 1\_2](https://github.com/hanifsaputra1530-hub/Laprak_strukdat/blob/main/Screenshot%202026-09-28%20213031.png)
 
 Program pertama digunakan untuk melakukan operasi matematika sederhana menggunakan dua bilangan. Pengguna diminta memasukkan dua nilai dengan tipe `float`, sehingga program dapat menerima bilangan yang memiliki angka di belakang koma.
 
