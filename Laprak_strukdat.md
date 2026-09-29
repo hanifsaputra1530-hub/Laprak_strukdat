@@ -268,7 +268,7 @@ int main() {
 
 ### Output Unguided 3 :
 
-![Screenshot Output Unguided 3\_2](https://github.com/andistafirza-droid/Laprak-Strukdat/blob/main/Praktikum%20Struktur%20Data/28-09-2026/Screenshot/Output-Unguided-Three.png)
+![Screenshot Output Unguided 3\_2](https://github.com/hanifsaputra1530-hub/Laprak_strukdat/blob/main/3.jpeg)
 
 Program ketiga digunakan untuk membuat pola angka berbentuk seperti cermin berdasarkan angka yang dimasukkan. Program menggunakan beberapa perulangan `for` untuk mengatur susunan angka dan posisi tanda `*`.
 
